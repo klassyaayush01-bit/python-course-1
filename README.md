@@ -1,39 +1,42 @@
 # Python Course 1
 
-This repository contains my coursework, exercises, assignments,
-and additional practice from Course 1 of the University of Michigan
-Python specialization.
+This repository contains my practice work and selected exercises from
+Course 1 of the University of Michigan Python specialization.
 
-## Topics
+## Topics Covered
 
 - Variables and expressions
+- User input and output
 - Conditional statements
-- Loops
-- Functions
-- Strings
-- Lists
-- Dictionaries
+- While loops
 - Exception handling
-- Input and output
-- Problem solving
+- Basic problem solving
+- Finding minimum and maximum values
+- Input validation
 
 ## Repository Structure
 
-### exercises
-Practice exercises completed while learning each concept.
+### exercises/
 
-### assignments
-Course assignments completed during the course.
+Contains selected exercises covering the fundamental Python concepts
+learned during the course.
 
-### practice
-Additional Python programs I created to strengthen my understanding.
+### practice/
+
+Contains additional Python programs created to strengthen my
+problem-solving skills.
+
+## Selected Practice
+
+- Largest and smallest number finder
+- Number analyzer
 
 ## Progress
 
-- Course 1: Completed
-- Course 2: In Progress
+- ✅ Course 1: Completed
+- ⏳ Course 2: Next
 
 ## Goal
 
-Build a strong foundation in Python and gradually develop
-real-world projects in automation, data analysis, AI, and software development.
+Build a strong foundation in Python and gradually develop practical
+skills in automation, data analysis, APIs, AI, and software development.
